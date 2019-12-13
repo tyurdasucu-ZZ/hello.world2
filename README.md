@@ -1,5 +1,3 @@
-# hello.world2
-only repositery
 //******************************************************************************
 //
 // Copyright (c) Microsoft. All rights reserved.
